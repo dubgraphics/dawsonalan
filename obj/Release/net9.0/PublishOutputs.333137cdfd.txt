@@ -1,7 +1,0 @@
-/Users/dawsonwilliams/Documents/DawsonAlan/PortfolioSite/publish/PortfolioSite
-/Users/dawsonwilliams/Documents/DawsonAlan/PortfolioSite/publish/appsettings.Development.json
-/Users/dawsonwilliams/Documents/DawsonAlan/PortfolioSite/publish/appsettings.json
-/Users/dawsonwilliams/Documents/DawsonAlan/PortfolioSite/publish/PortfolioSite.dll
-/Users/dawsonwilliams/Documents/DawsonAlan/PortfolioSite/publish/PortfolioSite.deps.json
-/Users/dawsonwilliams/Documents/DawsonAlan/PortfolioSite/publish/PortfolioSite.runtimeconfig.json
-/Users/dawsonwilliams/Documents/DawsonAlan/PortfolioSite/publish/PortfolioSite.pdb
